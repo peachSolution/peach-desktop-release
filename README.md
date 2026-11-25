@@ -7,7 +7,7 @@ Peach Studio 데스크톱 설치 파일을 배포하는 공개 저장소입니�
 - Windows x64: NSIS 설치 파일과 앱 내 자동 업데이트.
 - Mac: DMG/ZIP 설치 파일과 수동 업데이트.
 
-설치 파일은 [릴리스 목록](https://github.com/peachSolution/peach-studio-releases/releases)에 게시됩니다.
+설치 파일은 [릴리스 목록](https://github.com/peachSolution/peach-desktop-release/releases)에 게시됩니다.
 초기 릴리스 게시 전에는 다운로드할 설치 파일이 없습니다.
 
 ## Windows 배포 파일
